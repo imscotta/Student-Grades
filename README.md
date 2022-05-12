@@ -1,1 +1,3 @@
-# Test Scores Tables
+# Test Scores
+
+Performed calculations on sample data with Python.
